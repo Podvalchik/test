@@ -1,0 +1,6 @@
+.env
+.venv/
+__pycache__/
+.cache-ym2spotify
+.ym2spotify_state.json
+ym2spotify_report.csv
